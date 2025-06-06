@@ -3,7 +3,7 @@
 ## Overview
 This project implements a machine learning-based system to detect fraudulent credit card transactions. It integrates with the Payment Transaction Simulator hosted at `http://transaction-simulator-frontend-roolpho0.s3-website-us-east-1.amazonaws.com` to fetch real-time transaction data and send fraud predictions. The system uses a Random Forest classifier trained on synthetic transaction data to identify potentially fraudulent activities.
 
-![Fraud Detection System Screenshot](Fraud Detection System Portfolio.jpg)
+![Fraud Detection System Screenshot](https://github.com/ties2/Fraud_Detection/blob/main/fraud%20detection%20system.jpg)
 
 
 ## Features
